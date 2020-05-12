@@ -1,2 +1,10 @@
-# react-virtual-list
-react-virtual-list
+## react-demos
+```shell
+git clone git@github.com:dwqs/react-demos.git
+
+cd react-demos
+
+npm i && npm run dll
+
+npm run dev
+```
