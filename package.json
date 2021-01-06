@@ -18,7 +18,7 @@
     "@babel/polyfill": "^7.0.0",
     "@dwqs/react-virtual-list": "^0.7.8",
     "async-await-error-handling": "^0.5.2",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "connected-react-router": "^4.3.0",
     "core-js": "2",
     "faker": "^4.1.0",
